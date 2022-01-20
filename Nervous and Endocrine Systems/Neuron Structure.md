@@ -1,4 +1,4 @@
-Parts of a Neuron
+#Parts of a Neuron
 
 Dendrite: cellular extension that collects nerve impulses from many other neurons and passes them to the cell body.
 
