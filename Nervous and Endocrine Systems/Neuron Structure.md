@@ -16,4 +16,4 @@ Schwann cells are called nodes of Ranvier. Collectively, all the Schwann cells t
 myelinated axon, the impulse jumps from node to node increasing the speed of conduction of the nerve impulse. Nerves that are bright white are
 myelinated. Nervous tissue that is grey (the cortex of the brain) is not myelinated.
 
-![neuron image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fapp.biorender.com%2Fbiorender-templates%2Ft-5f5b7e6139954000b2bde860-neuron-anatomy&psig=AOvVaw2tcPwrIyqjiLDcDyBFC9Qj&ust=1642791393250000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiDy_2AwfUCFQAAAAAdAAAAABAJ)
+![neuron image](https://askabiologist.asu.edu/sites/default/files/resources/articles/neuron_anatomy.jpg)
